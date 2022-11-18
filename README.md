@@ -35,7 +35,7 @@ Here are some ideas to get you started:
     <a href="#">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="portfolio" />
     </a>
-    <a title="rajnandani02101997@gmail.com" href="rajnandani02101997@gmail.com">
+    <a title="rajnandani02101997@gmail.com" href="mailto:rajnandani02101997@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="rajnandani02101997@gmail.com" />
     </a>
 </p>
