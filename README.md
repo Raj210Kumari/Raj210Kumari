@@ -1,31 +1,46 @@
-### Hi there 👋
+<h1 align="center">
+    Hi
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
+    I'm Rajnandani Kumari
+</h1>
 
-## I'm [Rajnandani Kumari](https://github.com/Raj210Kumari)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/k-rajnandani210/)
-<!--[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://iampavangandhi.github.io/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iampavangandhi)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/iampavangandhi/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/iampavangandhi)-->
+![Profile Views](https://komarev.com/ghpvc/?username=Raj210Kumari&style=plastic&color=blue)
 
 ### Glad to see you here! 
 
 
 <!--
-**Raj210Kumari/Raj210Kumari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Raj210Kumari/Raj210Kumari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on Cloneing of a E-commerce Website 
+- 🌱 I’m currently learning Full Stack Web Development
+- 👯 I’m looking to collaborate on Biggner Level Open Source Project
+- 💬 Ask me about my Projects
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-![Profile Views](https://komarev.com/ghpvc/?username=Raj210Kumari&style=plastic&color=blue)
+
+
+<h2><i>Let's Connect</i></h2>
+
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/k-rajnandani210/">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/k-rajnandani210/" />
+    </a>
+    <a href="#">
+        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="tweeter" />
+    </a>
+    <a href="#">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="portfolio" />
+    </a>
+    <a title="rajnandani02101997@gmail.com" href="rajnandani02101997@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="rajnandani02101997@gmail.com" />
+    </a>
+</p>
+<br>
+
+## Hactoberfest 2022 Badge
 
 [![@raj210kumari's Holopin board](https://holopin.me/raj210kumari)](https://holopin.io/@raj210kumari)
