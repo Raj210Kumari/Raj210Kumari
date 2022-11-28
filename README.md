@@ -4,6 +4,16 @@
     I'm Rajnandani Kumari
 </h1>
 
+<h3>
+    <i>- I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i>
+</h3>
+
+<h3>
+    <i>- Currently student at Masai School</i>
+</h3>
+<br>
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Raj210Kumari&style=plastic&color=blue)
 
 ### Glad to see you here! 
@@ -20,7 +30,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about my Projects
 - 📫 Connect Me Here: 
 <p align="left">
-    <a href="#">
+    <a href="https://raj210kumari.github.io/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="portfolio" />
     </a>
     <a href="https://www.linkedin.com/in/k-rajnandani210/">
@@ -54,6 +64,8 @@ Here are some ideas to get you started:
 ![Rajnandani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raj210Kumari&show_icons=true&theme=highcontrast)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raj210Kumari&theme=highcontrast&fire=f7a305&ring=b0d90b&currStreakLabel=b0d90b)
+
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raj210Kumari&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="Raj210Kumari" height="139" />
 
 ## Hactoberfest 2022 Badge
 
