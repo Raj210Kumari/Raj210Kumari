@@ -74,3 +74,5 @@ Here are some ideas to get you started:
 ## Hactoberfest 2022 Badge
 
 [![@raj210kumari's Holopin board](https://holopin.me/raj210kumari)](https://holopin.io/@raj210kumari)
+
+<p><a href="https://github.com/Raj210Kumari/github-readme-activity-graph"><img alt="Raj210Kumari Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Raj210Kumari&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a></p>
