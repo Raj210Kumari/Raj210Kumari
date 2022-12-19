@@ -66,14 +66,14 @@ Here are some ideas to get you started:
     <img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman">
     
 </p>
+<br/>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Raj210Kumari" alt="Raj210Kumari" /></a> </p>
 <br>
 
 ![Rajnandani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raj210Kumari&show_icons=true&theme=highcontrast)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raj210Kumari&theme=highcontrast&fire=f7a305&ring=b0d90b&currStreakLabel=b0d90b)
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Raj210Kumari" alt="Raj210Kumari" /></a> </p>
 
 
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raj210Kumari&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="Raj210Kumari" height="139" />
