@@ -82,4 +82,5 @@ Here are some ideas to get you started:
 
 [![@raj210kumari's Holopin board](https://holopin.me/raj210kumari)](https://holopin.io/@raj210kumari)
 
+## Github Profile Details
 <p align="center"><img width="800px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raj210Kumari&theme=github_dark" alt="Rajnandani Kumari" align = "center"/></p>
